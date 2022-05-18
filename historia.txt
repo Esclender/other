@@ -14,9 +14,6 @@ exp 1
 
 master 7 
 
-<<<<<<< HEAD
 master 9
-=======
 master 9
 
->>>>>>> f3183eb
